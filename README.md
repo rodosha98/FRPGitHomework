@@ -10,4 +10,8 @@ Orion5 project contains 7 stl files which describe it’s 3D model of each link
 Puma 560 project contains 7 stl files which describe it’s 3D model of each link. Puma is 7-linked robot including the base
 This test files include test data to prove the correctness of a model
 In the DOCS folder you can find docs for projects.
-Images are available
+Images are available.
+
+Examples folder contains project examples.
+In pose python files there are examples how to define the position of the tool
+In animation python files there are example of Puma project with animation of moving and robot’s configuration plot
